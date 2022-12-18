@@ -1,0 +1,45 @@
+question,E,A,C,N,O
+Is talkative ,0.62,0.04,-0.04,0.11,0.08
+"Is outgoing, sociable ",0.62,0.24,0.08,-0.04,0.14
+Generates a lot of enthusiasm ,0.46,0.2,0.13,-0.05,0.32
+Is full of energy ,0.44,0.2,0.2,-0.14,0.26
+Has an assertive personality ,0.33,-0.03,0.23,-0.15,0.26
+Tends to be quiet ,-0.68,0.1,0.07,0.04,0.07
+"Is shy, inhibited ",-0.53,0.08,-0.08,0.26,0.09
+Is reserved ,-0.5,0.03,0.09,0.12,0.07
+Is considerate and kind to almost everyone ,0,0.59,0.15,0.05,0.13
+Has a forgiving nature ,0.03,0.51,-0.03,-0.05,0.13
+Is helpful and unselfish with others ,0.04,0.46,0.16,0.02,0.16
+Likes to cooperate with others ,0.18,0.45,0.12,0.03,0.14
+Is generally trusting ,0.09,0.42,0.04,0,0.09
+Is sometimes rude to others ,0.11,-0.41,-0.12,0.23,0.1
+Starts quarrels with others ,0.18,-0.38,-0.09,0.22,0.04
+Can be cold and aloof ,-0.21,-0.37,-0.04,0.12,0.15
+Tends to find fault in others ,0.06,-0.32,-0.03,0.27,0.08
+Does a thorough job ,0.04,0.08,0.59,0.05,0.13
+Does things efficiently ,0.11,0.21,0.57,-0.05,0.2
+Perseveres until the task is finished ,0.02,0.08,0.53,0.01,0.17
+Is a reliable worker ,0.04,0.2,0.52,0.08,0.12
+"Makes plans, follows through with them ",0.11,0.07,0.51,-0.03,0.14
+Tends to be lazy ,-0.1,-0.1,-0.54,0.17,0.09
+Tends to be disorganized ,0,-0.03,-0.53,0.12,0.14
+Can be somewhat careless ,0.04,-0.04,-0.46,0.11,0.17
+Is easily distracted ,0.01,0.01,-0.39,0.32,0.08
+Worries a lot ,-0.12,0.03,-0.03,0.63,0.03
+Gets nervous easily ,-0.09,-0.05,-0.07,0.58,-0.02
+Can be tense ,-0.08,-0.06,0.04,0.58,0.06
+Can be moody ,-0.04,-0.19,-0.06,0.48,0.11
+"Is depressed, blue ",-0.28,-0.14,-0.14,0.46,0.03
+"Is relaxed, handles stress well ",0.05,0.13,0.02,-0.57,0.19
+"Is emotionally stable, not easily upset ",0.01,0.17,0.11,-0.49,0.14
+Remains calm in tense situations ,-0.02,0.13,0.15,-0.46,0.26
+Is inventive ,0.18,-0.05,0.12,-0.18,0.58
+Has an active imagination ,0.13,0.04,-0.03,0.05,0.56
+"Is original, has new ideas ",0.22,0.02,0.13,-0.14,0.55
+"Likes to reflect, play with ideas ",0.02,0.04,0.07,0.04,0.53
+"Values artistic, aesthetic experiences ",0,0.09,0.01,0.08,0.52
+"Is ingenious, deep thinker ",0.02,-0.01,0.19,0,0.47
+"Is sophisticated in art, music, or literature ",0.01,0.01,-0.02,-0.01,0.46
+Is curious about many different things ,0.18,0.1,0.05,-0.01,0.42
+Has few artistic interests ,-0.02,0.01,0.05,0.02,-0.34
+Prefers work that is routine ,-0.1,0.06,0.07,0.07,-0.21

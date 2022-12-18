@@ -1,0 +1,91 @@
+,Trait1,Trait2,Degree1,Degree2,Line1,Line2
+0,E,A,High,High,I am the word of my peers,I feel all that they feel
+1,E,A,High,Mid,I am a word to be cheered,So full of charm and appeal
+2,E,A,High,Low,"My words, people revere","Not just for show, I am real"
+3,E,A,Mid,High,"To all the hearts, I am near",I am a word of appeal
+4,E,A,Mid,Mid,"The words of people, I hear","But when I speak, I don't kneel"
+5,E,A,Mid,Low,My words may sound a bit queer,They only show what I feel
+6,E,A,Low,High,I say less way less than they hear,And I hear less than I feel
+7,E,A,Low,Mid,My words are my way to clear,All the impulses I feel
+8,E,A,Low,Low,My words are for me to hear,Their meaning locked by a seal
+9,N,O,High,High,Brain may explore and may steer,Heart may feel lost and may squeal
+10,N,O,High,Mid,My heart may fall into tears,I guess that life has its deals
+11,N,O,High,Low,I know to which things to adhere,Some things are tough to reveal
+12,N,O,Mid,High,My mind creates for the sheer,"Fun. Art, I think, is ideal"
+13,N,O,Mid,Mid,"I may explore, I may fear",My heart can suffer and heal
+14,N,O,Mid,Low,I stick to what I hold dear,No room for fuzzy ideals
+15,N,O,Low,High,My mind is emptry of fears,I go wherever it reels
+16,N,O,Low,Mid,"In hardship, I persevere",No time for tears and for squeals
+17,N,O,Low,Low,To common sense I adhere,Values of strength are ideal
+18,C,E,High,High,I feel the need to just show,People the progress I've done
+19,C,E,High,Mid,Everyday I try to go,One extra step than I've gone
+20,C,E,High,Low,My work speaks for me so,What do you hear from me? None
+21,C,E,Mid,High,I would have everyone know,Of any battle I've won
+22,C,E,Mid,Mid,I pace myself in ways so,"To do my best, but then none"
+23,C,E,Mid,Low,I may seem lonely but know,I know where to get my fun
+24,C,E,Low,High,"When with my pals, I let go","It is all games, and all fun"
+25,C,E,Low,Mid,I may just go with the flow,My care is closer to none
+26,C,E,Low,Low,Almost no one can know,How parts of my life are run
+27,N,A,High,High,I like to jump. take the blow,Make others safe from the gun
+28,N,A,High,Mid,Sometimes I'm taking things slow,For stress sometimes has me stun
+29,N,A,High,Low,I don't bear people's woes,My own's already a tonne
+30,N,A,Mid,High,Each of my words I bestow,For me to help anyone
+31,N,A,Mid,Mid,I do fear loneliness bro,But not to points where I'm stun
+32,N,A,Mid,Low,I know the way to say no,favors feel better when won
+33,N,A,Low,High,I help my folks at their lows,I don't fear for the long run
+34,N,A,Low,Mid,Setbacks don't knock me so low,I can recover when shun 
+35,N,A,Low,Low,I don't show love to no foe,And no fear to anyone
+36,C,O,High,High,I find the smartest of schemes,For any obstacles seen
+37,C,O,High,Mid,Hard work is all that I deem,"Great,  being lazy demeans"
+38,C,O,High,Low,As hard as challenges seem,"I keep the grind, never ween"
+39,C,O,Mid,High,My mind can reach for extremes,I think of the things never seen
+40,C,O,Mid,Mid,I'm not into the extreme,But can try what I've not seen
+41,C,O,Mid,Low,I know what lessons I deem,"Worthy, on what rules to lean"
+42,C,O,Low,High,"Around my problems, I scheme",Do more with less of my means
+43,C,O,Low,Mid,"Won't work myself to extremes,",I do not live on caffeine
+44,C,O,Low,Low,I claim no genius extreme,Nor hardest work ever seen
+45,N,E,High,High,For life's scoching heat beam,My friends are best of sunscreens
+46,N,E,High,Mid,Life has its sorrows and screams,My grass is not ever green
+47,N,E,High,Low,"I own my sorrows, supreme",Prefer no one intervenes.
+48,N,E,Mid,High,Friends are like blood in my stream,They pump me up like proteins
+49,N,E,Mid,Mid,"Alone, or part of a team",Both are so valid routines
+50,N,E,Mid,Low,Alone is when I'm agleam,The crowd's noise is obscene
+51,N,E,Low,High,I'm best in places that teem,"With people, shy's not in my genes"
+52,N,E,Low,Mid,"Strong minds, I do esteem",Weakness of mind is obscene
+53,N,E,Low,Low,"On  my own, striving upstream",For fears are not in my genes
+54,C,A,High,High,I often skip on my rest,So others get to get by
+55,C,A,High,Mid,I'm always trying my best,Only good comes when you try
+56,C,A,High,Low,I strive for being the best,Let haters hate how I try
+57,C,A,Mid,High,I do feel for the oppressed,"When I can help, I will try"
+58,C,A,Mid,Mid,"I try, but I'm not obsessed",And do not aim for the sky
+59,C,A,Mid,Low,I do no like to be messed,"With, with bullies, I don't comply"
+60,C,A,Low,High,I'm not about being best,I'm about sharing the pie
+61,C,A,Low,Mid,Only try hard when I'm pressed,I'm not the most known to try
+62,C,A,Low,Low,Unless I deem you the best,Do not expect me to try
+63,E,O,High,High,Make friends in east and in west,New peers are joy in my eye
+64,E,O,High,Mid,I like the crowded joy fests,They get my mood up so high
+65,E,O,High,Low,"With talks to friends, I am blessed","For the same values, we vie"
+66,E,O,Mid,High,"New things, I like to  just test",Life does not favor the shy
+67,E,O,Mid,Mid,"Company's good, I attest","Though, when it's too much , I sigh"
+68,E,O,Mid,Low,"""Stick to the tried"" I suggest",For gold's value stays high
+69,E,O,Low,High,My talents are best expressed,If no man or noise is nearby
+70,E,O,Low,Mid,"By the fancy, I'm not impressed","I'm down to earth, aren't I?"
+71,E,O,Low,Low,"By the fancy, I'm not impressed","I look at crowds, I'm like ""why?"""
+72,N,C,High,High,I think that hard work is neat,As means to dodging the heat
+73,N,C,High,Mid,"Sometimes, I may feel downbeat",Life is not always so sweet
+74,N,C,High,Low,"Only so much, I can beat",Won't bash my head on concrete
+75,N,C,Mid,High,"I do my best, I compete",For the most worthy of feats
+76,N,C,Mid,Mid,Life has it thorns and it sweets,Work has its evils and treats
+77,N,C,Mid,Low,I am not fan of worksheets,They are a pain to complete
+78,N,C,Low,High,Work is my butter and meat,I'm not afraid of the heat
+79,N,C,Low,Mid,My gaze to life is upbeat,Cause smile is better than bleat
+80,N,C,Low,Low,No need to work like elites,I won't end up on the streets
+81,A,O,High,High,I do like all that is new,Explore and share what I do
+82,A,O,High,Mid,I am the one to come to,"Helping all people, I do"
+83,A,O,High,Low,"I'm down to earth, I like true","Joy, mine, and yours I like too"
+84,A,O,Mid,High,I do like all that is new,"Art is like food, in my view"
+85,A,O,Mid,Mid,I'm not obsessed with the new,But if I can try I may do
+86,A,O,Mid,Low,Stick to the tried and the true,Skeptic of any guru
+87,A,O,Low,High,"Creative thoughts, I can spew","If people hate, I keep true"
+88,A,O,Low,Mid,I say what I think is true,If people like or they boo
+89,A,O,Low,Low,I can say what people boo,They want to leave? Let them do!
