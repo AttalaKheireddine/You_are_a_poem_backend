@@ -28,7 +28,7 @@ debugpy==1.6.3
 decorator==5.1.1
 defusedxml==0.7.1
 dill==0.3.6
-Django==3.2.16
+Django==4.0.5
 django-cors-headers==3.13.0
 django-rest-framework==0.1.0
 djangorestframework==3.14.0
